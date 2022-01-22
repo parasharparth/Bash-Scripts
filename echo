@@ -1,0 +1,12 @@
+#!/bin/bash/
+echo "This is a script for checking the functionality of echo command"
+echo "The value of a variable can be displayed as below:- "
+x=10
+echo "The value of x is:- $x"
+echo "Now we will see how to remove all the spaces in a line using echo command"
+echo -e "This \bis \ban \becho \bcommand"
+echo "This is an example of giving a line space"
+echo -e "\n line left using backspace n"
+echo -e "This is an example of \t tab using echo \t \tcommand"
+echo -e "\vThis \vis \van \vexample \vof \vvertical \vtab \vwith \vbackspace \vinterior"
+echo -e "\n\vThis \n\vis \n\vexample \n\vof \n\vusing \n\vvertical tab \n\vand \n\vnewline \n\vtogether"

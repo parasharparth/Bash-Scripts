@@ -10,3 +10,9 @@ echo -e "\n line left using backspace n"
 echo -e "This is an example of \t tab using echo \t \tcommand"
 echo -e "\vThis \vis \van \vexample \vof \vvertical \vtab \vwith \vbackspace \vinterior"
 echo -e "\n\vThis \n\vis \n\vexample \n\vof \n\vusing \n\vvertical tab \n\vand \n\vnewline \n\vtogether"
+echo "this is the command to print all the files and folders present in a directory"
+echo * 
+echo "This is the command to print a list of all the files of a specific type present in the current directory"
+echo *.jpeg
+echo "this is the command to redirect output to a specific file instead of console"
+echo "Test Page" > testpage

@@ -22,10 +22,15 @@ Options	 ---> Description
  \v	 --->    vertical tab
  
  
- 2) The second program to learn is how to write comments in a script. 
+ 2) The second program to learn is how to write comments in a script.
+  
     There are two types of comments in linux scripts
+    
     The first is the single line comments which starts with "#" symbol
+    
     The second is the multi-line comments which starts with the symbol " : ' " and ends with " ' " symbol
+    
+ 3) 
     
  
  

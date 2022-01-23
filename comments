@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "This is a script depicting the use of comment (both single and multi line comments"
+echo "# is used to put a single line comment"
+#This is a single line comment
+
+echo " A multi-line comment starts from : symbol and ends with '"
+: '
+This is a comment
